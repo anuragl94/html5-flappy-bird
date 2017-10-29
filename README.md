@@ -4,8 +4,8 @@ Created to learn HTML5 game development. Hopefully something good comes out of i
 # Tech Stack
 1. HTML5
 1. Javascript
-1. MelonJS Library
+1. [MelonJS Library](https://github.com/melonjs/melonJS)
 
 # Authors
-1. Anurag Lingam
-1. Keshav Pandey
+1. [Anurag Lingam](https://github.com/anuragl94)
+1. [Keshav Pandey](https://github.com/Keshav-Pandey)
