@@ -7,5 +7,5 @@ Created to learn HTML5 game development. Hopefully something good comes out of i
 1. MelonJS Library
 
 # Authors
-1. Anurag Lingam
+1. [Anurag Lingam](https://github.com/anuragl94)
 1. Keshav Pandey
